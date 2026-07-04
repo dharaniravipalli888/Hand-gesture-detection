@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python
+jinja2
+python-multipart
+pyautogui
+pycaw
+comtypes
+numpy
+pillow

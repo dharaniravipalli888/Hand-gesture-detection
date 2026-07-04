@@ -1,0 +1,6 @@
+data_set/
+data_set_split/
+myenv/
+__pycache__/
+screenshots/
+yolo11n-cls.pt
